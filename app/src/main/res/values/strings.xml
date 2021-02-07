@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Lights On</string>
+    <string name="new_game_button_text">New Game</string>
+    <string name="feedback_text_field">Feedback text...</string>
 </resources>
